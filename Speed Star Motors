@@ -1,0 +1,38 @@
+<!DOCTYPE html>  
+
+<html>  
+   <head> 
+      <meta charset = "utf-8"> 
+      <title>...</title> 
+   </head> 
+  
+   <body> 
+      <header role = "banner"> 
+         <h1>Speed Star Motors</h1> 
+         <p>Where Speed meets Luxury!</p> 
+      </header> 
+   
+      <nav> 
+         <ul> 
+            <li><a href = "https://dealer.porsche.com/za/johannesburg/en-GB">Porsche</a></li> 
+            <li><a href =https://johannesburg.mclaren.com/enhttps://johannesburg.mclaren.com/en>Mclaren</a></li> 
+            <li><a href =https://ferraridealers.com/en-GB/southafrica/ >Ferrari</a></li> 
+         </ul> 
+      </nav> 
+   
+      <article> 
+         <section> 
+            <p>Once article can have multiple sections</p>
+         </section> 
+      </article> 
+   
+      <aside> 
+         <p>This is  aside part of the web page</p> 
+      </aside> 
+   
+      <footer> 
+         <p>Created by <a href = "https://tutorialspoint.com/">Tutorials Point</a></p> 
+      </footer> 
+   
+   </body> 
+</html>
